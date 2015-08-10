@@ -2,7 +2,7 @@
 =========
 ## ソーシャル
 
- + Twitter: @club_wot
+ + Twitter: @club_wot(https://twitter.com/club_wot)
  + [Open Group](https://groups.google.com/forum/#!forum/club-wot)
  + [共有ドライブ](https://drive.google.com/folderview?id=0BxUDIy95pWBqflBCWVBTZVpDbXUtXzgwak82SGxhMzItdUdrM3JNTnc3TkJJLW1wTEd4VG8&usp=drive_web)
 
