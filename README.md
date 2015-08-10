@@ -6,6 +6,15 @@
  + [Open Group](https://groups.google.com/forum/#!forum/club-wot)
  + [共有ドライブ](https://drive.google.com/folderview?id=0BxUDIy95pWBqflBCWVBTZVpDbXUtXzgwak82SGxhMzItdUdrM3JNTnc3TkJJLW1wTEd4VG8&usp=drive_web)
 
+## 予定表
+
+| Month | Day | week | 内容                                  | 備考                                     |
+|-------|-----|------|---------------------------------------|------------------------------------------|
+| 8     | 25  | 水   | WoTたまごくらぶオフラインミーティング | 第２回ハンズオンの反省会 新潟ハンズオンについて |
+| 10    | 24  | 土   | OSC １日目                            |                                          |
+| 10    | 25  | 日   | OSC ２日目                            |                                          |
+| ??    | ?   | ?    | グンマーハンズオン                    |                                          |
+
 ## リンク集
 
  + [Google Group](https://groups.google.com/forum/#!forum/club-wot)
